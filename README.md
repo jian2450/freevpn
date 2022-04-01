@@ -1,4 +1,4 @@
-更新时间 2022-03-25
+更新时间 2022-04-01
 
 分享不易，兄弟们多 star 下！
 
@@ -24,9 +24,9 @@ https://topvpn.team/github/t.list
 
 ## 付费VPN
 
-工薪阶层：每月10元钱，开发妥妥的
+工薪阶层：每月5元钱，开发妥妥的
 
-[饿饭(已稳定运行6年)](https://efanccyun.net/aff.php?aff=8529)
+[易云](https://yiyun.io/#/register?code=ZtipZKdu)
 
 小康家庭：不限流量，不限速度，一天1元钱，支持所有终端
 
