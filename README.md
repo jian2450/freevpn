@@ -27,7 +27,3 @@ https://topvpn.team/github/t.list
 工薪阶层：每月5元钱，开发妥妥的
 
 [易云](https://yiyun.io/#/register?code=ZtipZKdu)
-
-小康家庭：不限流量，不限速度，一天1元钱，支持所有终端
-
-[panda](https://pandavpnpro.com/r/42056724)
