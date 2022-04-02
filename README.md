@@ -20,7 +20,7 @@ https://topvpn.team/github/t.list
 
 ## 付费VPN
 
-工薪阶层：每月5元钱，开发妥妥的
+工薪阶层：每月10元钱，开发妥妥的
 
 [易云](https://yiyun.io/#/register?code=ZtipZKdu)
 
