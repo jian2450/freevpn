@@ -18,12 +18,12 @@ https://topvpn.team/github/t.list
 
 每周检查两次可用性，并及时更新，20个节点
 
-如遇问题需支持，可联系wx，打赏也可联系
-
-![qr](https://github.com/wms521125/freevpn/blob/main/src/qr.jpg?raw=true)
-
 ## 付费VPN
 
 工薪阶层：每月5元钱，开发妥妥的
 
 [易云](https://yiyun.io/#/register?code=ZtipZKdu)
+
+如遇问题需支持，可联系wx，打赏也可联系
+
+![qr](https://github.com/wms521125/freevpn/blob/main/src/qr.jpg?raw=true)
