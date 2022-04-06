@@ -1,4 +1,4 @@
-更新时间 2022-04-04
+更新时间 2022-04-06
 
 分享不易，兄弟们多 star 下！
 
@@ -22,8 +22,4 @@ https://topvpn.team/github/t.list
 
 工薪阶层：每月10元钱，开发妥妥的
 
-[易云](https://yiyun.io/#/register?code=ZtipZKdu)
-
-如遇问题需支持，可联系wx，打赏也可联系
-
-![qr](https://github.com/wms521125/freevpn/blob/main/src/qr.jpg?raw=true)
+### [易云](https://yiyun.io/#/register?code=ZtipZKdu)
