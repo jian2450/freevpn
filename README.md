@@ -2,6 +2,10 @@
 
 分享不易，兄弟们多 star 下！
 
+## 电报频道(更新更快)
+
+[点击加入Telegram频道](https://t.me/nodefreechannel)
+
 ## 工具
 
  客户端 | Windows | Mac | Android | iOS 
