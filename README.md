@@ -6,6 +6,8 @@
 
 [点击加入Telegram频道](https://t.me/nodefreechannel)
 
+更多内容请关注频道查阅（部分免费节点不在GitHub公开，仅在频道内发送）
+
 ## 工具
 
  客户端 | Windows | Mac | Android | iOS 
