@@ -6,6 +6,8 @@
 
 [点击加入Telegram频道](https://t.me/nodefreechannel)
 
+免费分享ssr，ss，vmess，trojan节点，订阅，tg代理等免费资源
+
 更多内容请关注频道查阅（部分免费节点不在GitHub公开，仅在频道内发送）
 
 ## 工具
