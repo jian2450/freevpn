@@ -22,7 +22,7 @@
 
 ## 免费订阅链接
 
-https://topvpn.team/github/t.list
+https://nodefree.org/dy/20220515.txt
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
