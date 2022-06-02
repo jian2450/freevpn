@@ -1,6 +1,4 @@
-# 六一儿童节快乐
-
-更新时间 2022-06-01 11:25
+更新时间 2022-06-02 10:25
 
 分享不易，兄弟们多 star 下！
 
@@ -26,11 +24,11 @@
 
 ### v2ray
 
-https://nodefree.org/dy/202206/20220601.txt
+https://nodefree.org/dy/202206/20220602.txt
 
 ### clash
 
-https://nodefree.org/dy/202206/20220601.yaml
+https://nodefree.org/dy/202206/20220602.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
