@@ -1,14 +1,6 @@
-更新时间 2022-07-08 13:21
+更新时间 2022-07-10 22:26
 
 分享不易，兄弟们多 star 下！
-
-## 电报频道(更新更快)
-
-[点击加入Telegram频道](https://t.me/nodefreechannel)
-
-免费分享ssr，ss，vmess，trojan节点，订阅，tg代理等免费资源
-
-更多内容请关注频道查阅（部分免费节点不在GitHub公开，仅在频道内发送）
 
 ## 工具
 
@@ -24,11 +16,11 @@
 
 ### v2ray
 
-https://nodefree.org/dy/202207/20220708.txt
+https://nodefree.org/dy/202207/20220710.txt
 
 ### clash
 
-https://nodefree.org/dy/202207/20220708.yaml
+https://nodefree.org/dy/202207/20220710.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
