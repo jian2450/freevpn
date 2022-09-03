@@ -16,11 +16,11 @@
 
 ### v2ray
 
-https://nodefree.org/dy/202208/20220903.txt
+https://nodefree.org/dy/202209/20220903.txt
 
 ### clash
 
-https://nodefree.org/dy/202208/20220903.yaml
+https://nodefree.org/dy/202209/20220903.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
