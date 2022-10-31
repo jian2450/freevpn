@@ -28,4 +28,4 @@ https://nodefree.org/dy/202210/20221031.yaml
 
 工薪阶层：每月9.9元钱，开发妥妥的
 
-### [易云](https://yiyun.io/#/register?code=ZtipZKdu)
+### [易云](https://yiyun.io/#/register?code=t0QNkJzV)
