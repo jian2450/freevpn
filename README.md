@@ -20,7 +20,7 @@ https://nodefree.org/dy/202211/20221101.txt
 
 ### clash
 
-https://nodefree.org/dy/202211/20221102.yaml
+https://nodefree.org/dy/202211/20221101.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
