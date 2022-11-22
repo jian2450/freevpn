@@ -1,4 +1,4 @@
-更新时间 2022-11-21 11:21
+更新时间 2022-11-22 11:15
 
 分享不易，兄弟们多 star 下！
 
@@ -16,11 +16,11 @@
 
 ### v2ray
 
-https://nodefree.org/dy/202211/20221121.txt
+https://nodefree.org/dy/202211/20221122.txt
 
 ### clash
 
-https://nodefree.org/dy/202211/20221121.yaml
+https://nodefree.org/dy/202211/20221122.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
