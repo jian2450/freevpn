@@ -16,11 +16,11 @@
 
 ### v2ray
 
-https://nodefree.org/dy/202212/20221216.txt
+https://nodefree.org/dy/202212/20221219.txt
 
 ### clash
 
-https://nodefree.org/dy/202212/20221216.yaml
+https://nodefree.org/dy/202212/20221219.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
@@ -28,4 +28,4 @@ https://nodefree.org/dy/202212/20221216.yaml
 
 工薪阶层：每月9.9元钱，开发妥妥的
 
-### [易云](https://yiyun.io/#/register?code=t0QNkJzV)
+### [轻云](https://qingyun.io/#/register?code=d2gcvORr)
