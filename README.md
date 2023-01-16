@@ -26,6 +26,6 @@ https://nodefree.org/dy/2023/01/20230116.yaml
 
 ## 付费VPN（不用担心失效，关键时刻不掉链子）
 
-工薪阶层：每月9.9元钱，开发妥妥的
+工薪阶层：每月10元钱，开发妥妥的
 
 ### [轻云](https://qingyun.io/#/register?code=d2gcvORr)
