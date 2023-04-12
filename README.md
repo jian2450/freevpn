@@ -16,11 +16,11 @@
 
 ### v2ray
 
-https://nodefree.org/dy/2023/02/20230214.txt
+https://wenode.cc/wp-content/uploads/2023/04/20230411.txt
 
 ### clash
 
-https://nodefree.org/dy/2023/02/20230214.yaml
+https://wenode.cc/wp-content/uploads/2023/04/20230411.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
@@ -28,4 +28,4 @@ https://nodefree.org/dy/2023/02/20230214.yaml
 
 工薪阶层：每月10元钱，开发妥妥的
 
-### [轻云](https://qingyun.io/#/register?code=d2gcvORr)
+### [快猫](https://kuaimao.io/#/register?code=ZjTMIFxA)
