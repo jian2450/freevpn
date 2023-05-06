@@ -1,5 +1,4 @@
-更新时间 2023-02-14
-
+更新时间 2023.5.6
 分享不易，兄弟们多 star 下！
 
 ## 工具
@@ -16,16 +15,12 @@
 
 ### v2ray
 
-https://wenode.cc/wp-content/uploads/2023/04/20230411.txt
+https://wenode.cc/wp-content/uploads/2023/05/20230506.txt
+
+https://nodefree.org/dy/2023/05/20230506.txt
 
 ### clash
 
-https://wenode.cc/wp-content/uploads/2023/04/20230411.yaml
+https://wenode.cc/wp-content/uploads/2023/05/20230506.yaml
 
-每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
-
-## 付费VPN（不用担心失效，关键时刻不掉链子）
-
-工薪阶层：每月10元钱，开发妥妥的
-
-### [快猫](https://kuaimao.io/#/register?code=ZjTMIFxA)
+每24小时更新一次，中间有可能偶不稳定
